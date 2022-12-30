@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineer 🔭 I’m currently working on Java spring boot with AWS cloud service<br>🌱 I’m currently learning python and machine lerning <br>💬 Ask me about tech stuff and anime.
+I am a software engineer 🔭 I’m currently working on Java spring boot with AWS cloud service<br>🌱 I’m currently learning python and machine lerning <br>💬 Ask me about tech stuff.
 
 
 ## 🌐 Socials:
